@@ -1,0 +1,8 @@
+VERSION_0.3 {
+    global:
+        get_version;
+        get_version2;
+        get_number;
+    local:
+        *;
+};
